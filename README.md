@@ -33,7 +33,7 @@ CSS for styling and responsiveness
 JSONPlaceholder API for mock data
 
 Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/Jaspalnegi/User-Management-App.git
 Navigate to the project directory: cd user-management-app
 
 Install dependencies: npm install
